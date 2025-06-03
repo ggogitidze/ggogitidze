@@ -3,7 +3,7 @@
 - GitHub OAuth authentication, JWT-secured sessions, and mobile-first UI.
 - MongoDB Atlas, Render, and Vercel deployment.
 
-### 👨‍🏫 [CodeBoard – Real-Time Collaborative Code Editor](code-board-three.vercel.app)
+### 👨‍🏫 [CodeBoard – Real-Time Collaborative Code Editor](https://code-board-three.vercel.app)
 - Multi-language live code editing with instructor-led sessions and dynamic syntax highlighting.
 - WebSocket-based collaboration with React + Node.js stack.
 - Monaco/CodeMirror for interactive editing.
