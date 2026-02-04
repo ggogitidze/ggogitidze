@@ -1,3 +1,5 @@
+Methods: hypothesis testing, correlation analysis, segmentation, statistical inference, SQL-based analytics.
+
 ###  [S&P 500 ESG & Financial Performance Analysis](https://github.com/ggogitidze/SP-500-ESG)
 - End-to-end data analytics project analyzing the relationship between ESG risk scores and financial performance of S&P 500 companies.
 - Correlation analysis, hypothesis testing, and sector-level comparisons using SQL and Python.
