@@ -1,19 +1,19 @@
-Methods: hypothesis testing, correlation analysis, segmentation, statistical inference, SQL-based analytics.
+**Methods:** hypothesis testing, regression & correlation analysis, curve fitting & goodness-of-fit, statistical inference, exploratory data analysis, SQL-based analytics.
 
-###  [S&P 500 ESG & Financial Performance Analysis](https://github.com/ggogitidze/SP-500-ESG)
-- End-to-end data analytics project analyzing the relationship between ESG risk scores and financial performance of S&P 500 companies.
-- Correlation analysis, hypothesis testing, and sector-level comparisons using SQL and Python.
-- Findings visualized with Tableau dashboards and documented through structured analytical reports.
+### [CERN Dielectron: Z-Boson Resonance Fit](https://github.com/ggogitidze/dialectron)
+- End-to-end high-energy-physics analysis reconstructing the dielectron invariant-mass spectrum directly from CMS Open Data electron four-vectors (100k events).
+- Recovered the J/ψ, Υ, and Z-boson resonances as mass peaks and validated the reconstruction against the provided values.
+- Fit the Z-boson peak with a Voigt profile plus linear background, recovering the accepted Z mass to within ~0.5% with per-bin Poisson uncertainties and goodness-of-fit reporting.
 
-###  [Telecom Customer Churn Analysis](https://github.com/ggogitidze/Telecom-churn)
-- Data-driven analysis focused on identifying key drivers of customer churn in a telecom dataset.
-- Performed exploratory data analysis, segmentation, and hypothesis testing to isolate high-risk customer groups.
-- Built actionable insights to support retention strategies using SQL, statistics, and Tableau visualizations.
+### [S&P 500 ESG & Financial Performance Analysis](https://github.com/ggogitidze/SP-500-ESG)
+- End-to-end statistical study of the relationship between ESG risk scores and financial performance across the S&P 500.
+- Correlation analysis, linear regression, ANOVA, and hypothesis testing across sectors using Python and SQL.
+- Findings documented in structured analytical reports and visualized with Tableau dashboards.
 
-###  [E-Commerce Data Analysis Using PostgreSQL](https://github.com/ggogitidze/ecommerce)
-- End-to-end business analytics case study conducted entirely in PostgreSQL without Python or Excel.
+### [E-Commerce Data Analysis Using PostgreSQL](https://github.com/ggogitidze/ecommerce)
+- End-to-end business analytics case study built entirely in PostgreSQL/SQL, without Python or Excel.
 - Analyzed customer behavior, discount effectiveness, seasonality, and profitability across segments.
-- Implemented SQL-based hypothesis testing and anomaly detection with results visualized in Tableau Public.
+- SQL-based hypothesis testing and anomaly detection, with results visualized in Tableau Public.
 
 
 ## 🌐 Socials:  
